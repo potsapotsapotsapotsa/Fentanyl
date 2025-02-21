@@ -19,7 +19,7 @@ config = {
     'persist': False,
     'keep-alive': False,
     'injection_url': 'https://wallpapersok.com/images/hd/windows-xp-bliss-reversed-windows-xp-bliss-wallpaper-1076lru9kqy2fzu0.jpg',
-    'inject': False,
+    'inject': True,
     'hideconsole': False,
     'antivm': True,
     'force_admin': False,
